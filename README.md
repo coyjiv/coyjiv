@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @coyjiv
+- 🌱 I’m a Front End Developer from Kyiv, I create mobile-first adaptive websites, mobile applications using React-Native and SPA applications using React|Typescript.
+- 👀 Telegram: @kuawq Email: djdaniil46@gmail.com
